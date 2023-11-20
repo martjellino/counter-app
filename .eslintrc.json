@@ -23,6 +23,8 @@
     "no-console": "error",
     "camelcase": "error",
     "eqeqeq": "error",
-    "react/react-in-jsx-scope": "off"
+    "react/react-in-jsx-scope": "off",
+    "linebreak-style": ["off", "windows"],
+    "no-trailing-spaces": "off"
   }
 }

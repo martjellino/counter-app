@@ -1,9 +1,9 @@
-import React from 'react';
+import Counter from './components/Counter';
 
 export default function Page() {
   return (
     <div>
-      <p>hello world</p>
+      <Counter />
     </div>
   );
 }
